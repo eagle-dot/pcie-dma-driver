@@ -80,7 +80,7 @@ The device exposes 8 MMIO registers in BAR0:
 | `0x18` | `REG_DMA_IRQ_MASK` | `1` = enable MSI on completion |
 | `0x1C` | `REG_DMA_IRQ_ACK` | Write `1` to clear interrupt |
 
-**Vendor ID:** `0x1234` — **Device ID:** `0xDEAD`
+**Vendor ID:** `0x1234` — **Device ID:** `0xA100`
 
 ---
 
