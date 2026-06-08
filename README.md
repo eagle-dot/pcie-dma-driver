@@ -292,6 +292,7 @@ sudo /tmp/dma_test
 | 2 | mobileAI2 | R36.4.7 | ~1309 MB/s |
 | 3 | ubuntu134 | R36.4.0 | ~1692 MB/s |
 
+Benchmark results vary across units due to differing background workloads. Future tests will be conducted after terminating all non-essential applications on each unit to ensure more consistent measurements
 ---
 
 ## Known Issues
